@@ -1,8 +1,8 @@
-# dwh_roadmap</br>
-- Нормальные формы</br>
-- Kimball</br>
-- Inman</br>
-- Data Vault</br>
+# dwh_roadmap
+- Нормальные формы
+- Kimball
+- Inman
+- Data Vault
 - Anchor Modeling
 - scd
 - cdc
@@ -13,7 +13,7 @@
 - git
 - airflow
 - python
-= docker
+- docker
 - знание любой БД на хорошем уровне
 - postgres: dba1(устройство БД), qpt(оптимизация запросов!)
 - вертикальное, горизонтальное масштабирование БД
